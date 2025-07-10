@@ -64,12 +64,12 @@ For skeleton-based methods, the [3D heatmap volumes](https://github.com/kennymck
 
  **NTU RGB+D HLI and HGI**
  
- | Mid-level features | Quark Disk Link | Code |
- |----------------|------------------|------------------|
- | RGB HLI         | uploading, coming soon | - |
- | RGB HGI| [Link](https://pan.quark.cn/s/ab01ad039ad0) | jr62 |
- | Depth HLI       | [Link](https://pan.quark.cn/s/86f984caf108) | D8Qw |
- | Depth HGI       | regenerating, coming soon | - |
+ | Mid-level features | Quark Disk Link |
+ |----------------|------------------|
+ | RGB HLI         | uploading, coming soon |
+ | RGB HGI| [Link](https://pan.quark.cn/s/ceb1cc695340?pwd=5Y29) |
+ | Depth HLI       | [Link](https://pan.quark.cn/s/118190b09ce7?pwd=1V2W) |
+ | Depth HGI       | regenerating, coming soon |
 
 HLI or HGI images are stored in a single directory, regardless of benchmark splits. During code execution, each sample is identified as belonging to the training or testing set based on its filename (i.e., sample ID).
 
