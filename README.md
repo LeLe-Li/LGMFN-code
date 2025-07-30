@@ -8,6 +8,7 @@ LGMFN is a local-global multimodal fusion network that efficiently captures loca
 - Achieves superior performance over state-of-the-art methods on the NTU RGB+D and NTU RGB+D 120 benchmarks through compact and efficient image-based classification and fusion.
 - When fused with skeleton-based models, significantly improves the robustness of these baselines in distinguishing similar classes and achieving perspective invariance with little time overhead.
 
+
 # Ablation studies
 
 The detailed ablation studies on NTU RGB+D (CSub/CView) and NTU RGB+D 120 (XSub/XSet) are as follows(employing EfficientNet-b7 as baseline, and the Number is as in the paper).
@@ -66,10 +67,10 @@ For skeleton-based methods, the [3D heatmap volumes](https://github.com/kennymck
  
  | Mid-level features | Quark Disk Link |
  |----------------|------------------|
- | RGB HLI         | uploading, coming soon |
+ | RGB HLI         | [Link](https://pan.quark.cn/s/2dc6efe36922?pwd=VbJ3) |
  | RGB HGI| [Link](https://pan.quark.cn/s/ceb1cc695340?pwd=5Y29) |
  | Depth HLI       | [Link](https://pan.quark.cn/s/118190b09ce7?pwd=1V2W) |
- | Depth HGI       | regenerating, coming soon |
+ | Depth HGI       | [Link](https://pan.quark.cn/s/184f21c3eaea?pwd=iGjz) |
 
 HLI or HGI images are stored in a single directory, regardless of benchmark splits. During code execution, each sample is identified as belonging to the training or testing set based on its filename (i.e., sample ID).
 
