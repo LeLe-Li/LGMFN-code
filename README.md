@@ -8,6 +8,8 @@ LGMFN is a local-global multimodal fusion network that efficiently captures loca
 - Achieves superior performance over state-of-the-art methods on the NTU RGB+D and NTU RGB+D 120 benchmarks through compact and efficient image-based classification and fusion.
 - When fused with skeleton-based models, significantly improves the robustness of these baselines in distinguishing similar classes and achieving perspective invariance with little time overhead.
 
+updates:
+- 25.07.30 Finish uploading the RGB HLI and Depth HGI mid-level features.
 
 # Ablation studies
 
